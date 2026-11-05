@@ -1,0 +1,8 @@
+Classic Swing Timer 0.2.1
+
+- Added WoW: Forever compatibility for interface 16001 alongside Classic Era.
+- Off hand visibility now identifies equipped weapons by item type instead of reading attack speed, which can be restricted during Forever combat.
+- Shields and held items do not show an off hand swing bar.
+- Preserves existing saved settings and the bundled LibClassicSwingTimerAPI.
+
+Validation: simulated integration tests pass for both Classic Era and Forever, including native PLAYER_SWING events with restricted weapon-speed APIs. Live testing in both game clients is still required.

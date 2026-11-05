@@ -1,0 +1,10 @@
+## Interface: 16001, 11507, 11508, 11509, 11510
+## Title: Classic Swing Timer
+## Notes: Customizable main hand, off hand and ranged swing bars with weapon icons.
+## Author: Nolt
+## Version: 0.2.1
+## SavedVariables: ClassicSwingTimerDB
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibClassicSwingTimerAPI\LibClassicSwingTimerAPI.lua
+ClassicSwingTimer.lua

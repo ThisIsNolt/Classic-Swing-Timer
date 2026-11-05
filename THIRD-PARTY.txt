@@ -1,0 +1,13 @@
+LibClassicSwingTimerAPI v2.3.0 (LibStub minor 39)
+Author: Ralgathor and upstream contributors
+Source: https://github.com/Ralgathor/LibClassicSwingTimerAPI
+Pinned release commit: c25cc3964deafb2c2b5189b317820b9735adec78
+Bundled without source modifications. GNU GPL v3; full license in LICENSE.txt.
+SHA256: 554149e9d312758e2e22d73bdb1b287376c03251a2dd97af5e1ec5bd2175811b
+
+LibStub and CallbackHandler-1.0
+Source: https://github.com/WoWUIDev/Ace3
+LibStub is public domain; attribution retained in source.
+CallbackHandler license: Libs/ACE3-LICENSE.txt; source header retained.
+LibStub SHA256: 26401bc42c26d1d1b6f7ad9410aa464edcbe4d32d74ebadeeecd8c0110236f7d
+CallbackHandler SHA256: 24f7342068e0d1b8d38ee1b8c7ceeea625bea079a01f0222e341660c7b104432
